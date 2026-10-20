@@ -1,0 +1,9 @@
+
+--- ShapeAreas.java ---
+Circle, Rectangle, and Triangle areas are printed, followed by total and largest area.
+
+--- Payroll.java ---
+Each employee salary is printed; intern has an extra note; total payroll is printed.
+
+--- MediaFees.java ---
+Book late fee 6.00; DVD late fee 10.00; magazine late fee 5.00; total 21.00

@@ -1,0 +1,9 @@
+
+--- RemoteControl.java ---
+Fan and light switch messages print, followed by permission results from anonymous class and lambda.
+
+--- NotificationSenders.java ---
+EMAIL, SMS, PUSH notifications print; urgent sender receives an additional urgent message.
+
+--- DiscountEngine.java ---
+Select a discount rule and each original price is printed beside the discounted price.

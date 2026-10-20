@@ -1,0 +1,9 @@
+
+--- CounterRace.java ---
+Unsafe count may be lower than 800000; Synchronized count: 800000
+
+--- SeatBookingRace.java ---
+Successful bookings: 5; Seats left: 0
+
+--- ArraySumRace.java ---
+Partitioned sum: 1000000; AtomicLong total: 1000000; Expected total: 1000000

@@ -1,0 +1,9 @@
+
+--- Thermostat.java ---
+Temperature increases only up to 30 and decreases only to 16. Active thermostats: 2
+
+--- CinemaShow.java ---
+Book 3: true, seats: 2; Book 4: false, seats: 2; Book 2: true, seats: 0; After cancelling 1, seats: 1; Total booked: 5
+
+--- ParkingLot.java ---
+Third two-wheeler and second four-wheeler are rejected with Full. Revenue is calculated only for successful parking.

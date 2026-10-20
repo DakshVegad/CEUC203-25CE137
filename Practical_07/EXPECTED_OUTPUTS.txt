@@ -1,0 +1,9 @@
+
+--- FormValidator.java ---
+name must not be blank
+
+--- MiniTestRunner.java ---
+Addition test passed; Text test passed; Tests run: 2
+
+--- ColumnMapper.java ---
+Daksh Vegad, age 18

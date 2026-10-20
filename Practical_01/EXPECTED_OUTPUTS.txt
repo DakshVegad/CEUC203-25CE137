@@ -1,0 +1,9 @@
+
+--- VendingMachine.java ---
+Enter TEN, then FIVE. The total reaches 15 and output ends with: Paid. Change: 0
+
+--- TollBooth.java ---
+Enter two different vehicle numbers with type car, then one with type bike, then done. Output includes: Total toll: 120 and Most frequent: car.
+
+--- RPSLS.java ---
+Five rounds display player/computer moves, each round result, and the final score. Because computer moves are random, results vary.

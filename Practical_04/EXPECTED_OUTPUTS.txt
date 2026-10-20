@@ -1,0 +1,9 @@
+
+--- PasswordChecker.java ---
+abc -> Weak; Abcd1234! -> Strong
+
+--- ChatFilter.java ---
+Enter hello. Matches: 1, followed by 10:05 alice: Hello there
+
+--- TemplateFiller.java ---
+Dear Riya, order A07 ships [?].

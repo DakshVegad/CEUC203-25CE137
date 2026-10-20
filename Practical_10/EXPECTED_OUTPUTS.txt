@@ -1,0 +1,9 @@
+
+--- ThreadPoolRunner.java ---
+Ten tasks run on a reused pool of three worker threads; All tasks completed.
+
+--- ProducerConsumer.java ---
+Produced and consumed values 1 through 5 in order; Producer-consumer finished.
+
+--- DeadlockDemo.java ---
+Unsafe version may deadlock; daemon threads prevent the demo from hanging. The fixed version completes.

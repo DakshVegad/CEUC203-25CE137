@@ -1,0 +1,9 @@
+
+--- GuardedCalculator.java ---
+For 10 / 2, output includes Result: 5.0. A zero divisor prints Cannot divide by zero. and retries.
+
+--- StockIssue.java ---
+Issued 2 Pen(s); remaining requests print out-of-stock or invalid-quantity messages without stopping the run.
+
+--- AutoCloseableDemo.java ---
+Resource is being used; Resource closed; Caught: Original operation error

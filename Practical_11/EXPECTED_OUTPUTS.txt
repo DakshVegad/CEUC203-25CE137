@@ -1,0 +1,9 @@
+
+--- SaveLoad.java ---
+Student names and roll numbers are restored. transient temporaryNote prints null after loading.
+
+--- LogAnalyzer.java ---
+Total lines: 5; Lines containing ERROR: 2; file sizes and per-file counts are shown.
+
+--- DirectoryReport.java ---
+A directory-report.txt file is created with file names, sizes, and modification times.

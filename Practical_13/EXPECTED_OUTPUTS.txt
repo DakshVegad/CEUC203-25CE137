@@ -1,0 +1,9 @@
+
+--- GenericContainers.java ---
+Hello Java; 42; Age = 18; First item: one
+
+--- BoundedStats.java ---
+Integer average: 20.0; Double average: 2.5; Long average: 200.0
+
+--- GenericStackDemo.java ---
+Generics; Java; 20; Stack is empty
